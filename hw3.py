@@ -13,5 +13,5 @@ for y in x :
         z[y]+=1
 for y in z:
     w=z[y]
-    print(y,":",w)
+    print('"'+y+'"'+":",w)
 
